@@ -1,2 +1,4 @@
 # Game_Bulls_and_Cows
-game
+coursework
+
+copyright @ srwang0506, 2025
